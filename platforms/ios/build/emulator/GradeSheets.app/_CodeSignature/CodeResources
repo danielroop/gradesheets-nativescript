@@ -86,7 +86,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		X45vyCwHFMB13wj+0WTVCPzo3BU=
+		+Ron12E11YEbyzry1fF5BPfVRdY=
 		</data>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
 		<data>
@@ -194,7 +194,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		T5LuEdFTOtc8V1jSOahXrYeW+es=
+		f8WdabuUTOreFEy7nTu9hL531yU=
 		</data>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -202,7 +202,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		rcZkJkrYmD8ABQGa5c28kjRikns=
+		jxNq3io8fFsawV5q8k2G6WElxPM=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -222,7 +222,7 @@
 		</data>
 		<key>app/main-page.xml</key>
 		<data>
-		b5fICBjlpgVXGxgQPLDj92NnoCI=
+		aS7AYHH8D6PDhYcWEiEwQl1NVBg=
 		</data>
 		<key>app/main-view-model.js</key>
 		<data>
@@ -1488,11 +1488,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			X45vyCwHFMB13wj+0WTVCPzo3BU=
+			+Ron12E11YEbyzry1fF5BPfVRdY=
 			</data>
 			<key>hash2</key>
 			<data>
-			7CA293vvYLLw4VmZ/Zif0TPsfhQTuVwl+ba+dzgerNc=
+			dwn408OD4OAgd+OFYbQ8w8q9aCHpy8H+5Dy/RpdSSHw=
 			</data>
 		</dict>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
@@ -1774,11 +1774,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			T5LuEdFTOtc8V1jSOahXrYeW+es=
+			f8WdabuUTOreFEy7nTu9hL531yU=
 			</data>
 			<key>hash2</key>
 			<data>
-			7H7l9zhZaPbwppVEFiVC4LSrhpZ1FzPQ/qb4TPTpbSo=
+			RyT8fGB9cla7hYlJTwxMAEGbJpO8YFXN22nyayU3mRg=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -1796,11 +1796,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rcZkJkrYmD8ABQGa5c28kjRikns=
+			jxNq3io8fFsawV5q8k2G6WElxPM=
 			</data>
 			<key>hash2</key>
 			<data>
-			0uL/4+VWe9HGg5LvrA/SGfU3hdBckkt01vPOAR+Boiw=
+			FHyM7lvQ1eYFSDDST9ljtDHhcXZtkGecpmHRFH0Kjgk=
 			</data>
 		</dict>
 		<key>app/app.css</key>
@@ -1840,11 +1840,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			b5fICBjlpgVXGxgQPLDj92NnoCI=
+			aS7AYHH8D6PDhYcWEiEwQl1NVBg=
 			</data>
 			<key>hash2</key>
 			<data>
-			G6VVZuzWuXovlyGJwbNb/E5BNml6mLnIVMmKwJ4JZDQ=
+			SAzk2BdgV+qEksFoQDzKb1L/IAVaDvaqh1JJV8iEaLI=
 			</data>
 		</dict>
 		<key>app/main-view-model.js</key>

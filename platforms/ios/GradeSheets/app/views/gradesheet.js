@@ -3,6 +3,7 @@ var GridLayout = require("ui/layouts/grid-layout").GridLayout;
 var ItemSpec = require("ui/layouts/grid-layout").ItemSpec;
 var GridUnitType = require("ui/layouts/grid-layout").GridUnitType;
 var createViewModel = require("./gradesheet-view-model").createViewModel;
+var appSettings = require("application-settings");
 
 
 var createGridLayout = function() {
@@ -21,7 +22,7 @@ var createGridLayout = function() {
 
 exports.onNavigatingTo = function(args) {
     page = args.object;
-    page.bindingContext = createViewModel(page.navigationContext);
+    page.bindingContext = createViewModel(page.navigationContext, appSettings.getBoolean("invertPercentages", false));
     
     var gradePairs = page.bindingContext.gradePairs;
 

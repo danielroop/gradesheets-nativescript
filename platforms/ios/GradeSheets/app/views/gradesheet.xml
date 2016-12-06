@@ -3,7 +3,10 @@
         <ActionBar title="Grade Sheet Detail" />
     </Page.actionBar>
     
-    <ScrollView orientation="horizontal">
-        <WrapLayout orientation="vertical" width="auto" id="gradeSheet" />
-    </ScrollView>
+    <StackLayout>
+        <ScrollView orientation="horizontal">
+            <WrapLayout orientation="vertical" width="auto" id="gradeSheet" />
+        </ScrollView>
+    </StackLayout>
+    
 </Page>

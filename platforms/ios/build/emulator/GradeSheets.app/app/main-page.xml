@@ -1,4 +1,8 @@
 <Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="onNavigatingTo">
+  <Page.actionBar>
+        <ActionBar title="Grade Sheets" />
+    </Page.actionBar>
+  
   <StackLayout orientation="vertical">
      <GridLayout columns="*,auto" rows="auto">
       <TextField id="numberOfQuestions" hint="Number of Questions" col="0"/>
