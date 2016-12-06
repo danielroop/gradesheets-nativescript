@@ -1,0 +1,9 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="onNavigatingTo" loaded="loaded">
+    <Page.actionBar>
+        <ActionBar title="Grade Sheet Detail" />
+    </Page.actionBar>
+    
+    <ScrollView orientation="horizontal">
+        <WrapLayout orientation="vertical" width="auto" id="gradeSheet" />
+    </ScrollView>
+</Page>

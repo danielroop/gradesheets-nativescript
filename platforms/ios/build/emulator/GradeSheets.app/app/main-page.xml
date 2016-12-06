@@ -1,0 +1,9 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="onNavigatingTo">
+  <StackLayout orientation="vertical">
+     <GridLayout columns="*,auto" rows="auto">
+      <TextField id="numberOfQuestions" hint="Number of Questions" col="0"/>
+      <Button text="Create" col="1" class="link" tap="createGradeSheet" />
+    </GridLayout>
+    <Label text="Recent Grade Sheets" class="header" />
+  </StackLayout>
+</Page>
